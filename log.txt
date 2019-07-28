@@ -1,0 +1,1 @@
+t,x,z,theta1,theta2,L,xd,zd,theta1d,theta2d,XCG,XERR,XSTANCE,XTD
